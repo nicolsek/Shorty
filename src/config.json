@@ -1,5 +1,6 @@
 {
     "port": 8080,
-    "db_location": "../db/db.json"
-    
+    "link_length": 4,
+    "db_location": "../db/db.json",
+    "db_name": "links"
 }
