@@ -1,0 +1,26 @@
+{
+  "name": "shorty",
+  "version": "1.0.0",
+  "description": "A dirty simple link shortener.",
+  "main": "src/shorty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolsek/Shorty.git"
+  },
+  "keywords": [
+    "link-shortener",
+    "utility"
+  ],
+  "author": "May Tusek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolsek/Shorty/issues"
+  },
+  "homepage": "https://github.com/nicolsek/Shorty#readme",
+  "dependencies": {
+    "nano": "^7.1.0"
+  }
+}
